@@ -2,4 +2,4 @@
 
 ### This is the code for my personal portfolio website.
 
-🔗 [Website](https://github.com/brenobragalha)
+🔗 [Website](https://brenobragalha.github.io/personal-portfolio-website/)
